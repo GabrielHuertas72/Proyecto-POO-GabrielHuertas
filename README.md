@@ -10,21 +10,21 @@ Repositorio del desarrollo de un programa en python el cual servira para la gest
 ```mermaid
 classDiagram
     class Articulos{
-        + Nombre (str)
-        + Marca  (str)
-        + Precio (int)
-        + Unidades (int)
-        + Fecha de entrada (list)
-        Articulos: +Busqueda por nombre()
-        Articulos: +Busqueda por marca()
-        Articulos: +Busqueda por ramgo de precio()
-        Articulos: +Busqueda por fecha de almacenamiento()
+        +Nombre 
+        +Marca  
+        +Precio 
+        +Unidades 
+        +Fecha de entrada 
+        +Busqueda por nombre()
+        +Busqueda por marca()
+        +Busqueda por ramgo de precio()
+        +Busqueda por fecha de almacenamiento()
     }
     class Articulo_Perecedero{
-        + Fecha de vencimiento
-        + Estado del articulo
-        Articulo_Perecedero: Generar dias para el pereciimiento()
-        Articulo_Perecedero: Generar prioridad de venta()
+        +Fecha de vencimiento
+        +Estado del articulo
+        +Generar dias para el pereciimiento()
+        +Generar prioridad de venta()
     }
     Articulos --*  Articulo_Perecedero 
 
