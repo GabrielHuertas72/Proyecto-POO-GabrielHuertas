@@ -24,7 +24,7 @@ classDiagram
         + Fecha de vencimiento
         + Estado del articulo
         Articulo_Perecedero: Generar dias para el pereciimiento()
-        Articulo_Perecedero: Genera prioridad de venta()
+        Articulo_Perecedero: Generar prioridad de venta()
     }
     Articulos --*  Articulo_Perecedero 
 
