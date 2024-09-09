@@ -15,16 +15,17 @@ classDiagram
         +Precio 
         +Unidades 
         +Fecha de entrada 
-        +Busqueda por nombre()
-        +Busqueda por marca()
+        
         +Busqueda por ramgo de precio()
         +Busqueda por fecha de almacenamiento()
     }
-    class Articulo_Perecedero{
-        +Fecha de vencimiento
+    class Lista{
+        +Cantidad de Articulos
         +Estado del articulo
         +Generar dias para el pereciimiento()
         +Generar prioridad de venta()
+    +Busqueda por nombre()
+        +Busqueda por marca()
     }
     Articulos --*  Articulo_Perecedero 
 
