@@ -27,6 +27,6 @@ classDiagram
         +Busqueda por rango de precio()
         +Busqueda por fecha de almacenamiento()
     }
-    Lista --*  Articulos
+     Articulos --*  Lista
 
 ```
