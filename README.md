@@ -15,9 +15,6 @@ classDiagram
         +Precio 
         +Unidades 
         +Fecha de entrada 
-        
-        +Busqueda por rango de precio()
-        +Busqueda por fecha de almacenamiento()
     }
     class Lista{
         +Articulos
