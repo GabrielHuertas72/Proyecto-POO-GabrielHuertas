@@ -16,17 +16,20 @@ classDiagram
         +Unidades 
         +Fecha de entrada 
         
-        +Busqueda por ramgo de precio()
+        +Busqueda por rango de precio()
         +Busqueda por fecha de almacenamiento()
     }
     class Lista{
+        +Articulos
         +Cantidad de Articulos
         +Estado del articulo
-        +Generar dias para el pereciimiento()
+        +Generar dias para el perecimiento()
         +Generar prioridad de venta()
-    +Busqueda por nombre()
+        +Busqueda por nombre()
         +Busqueda por marca()
+        +Busqueda por rango de precio()
+        +Busqueda por fecha de almacenamiento()
     }
-    Articulos --*  Articulo_Perecedero 
+    Lista --*  Articulos
 
 ```
