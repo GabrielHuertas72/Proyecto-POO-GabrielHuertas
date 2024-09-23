@@ -11,22 +11,32 @@ Repositorio del desarrollo de un programa en python el cual servira para la gest
 ```mermaid
 classDiagram
     class Articulos{
-        +Nombre 
+        +Tipo
         +Marca  
         +Precio 
         +Unidades 
-        +Fecha de entrada 
+        +Fecha de entrada
+        +set Tipo()
+        +set Marca()
+        +set Precio()
+        +set Unidades()
+        +set Fecha de entrada()
+        +get Tipo()
+        +get Marca()
+        +get Precio()
+        +get Unidades()
+        +get Fecha de entrada()
     }
-    class Lista{
+    class Almacen{
+        +Nombre
         +Articulos
-        +Cantidad de Articulos
         +Estado del articulo
-        +Generar dias para el perecimiento()
-        +Generar prioridad de venta()
-        +Busqueda por nombre()
-        +Busqueda por marca()
-        +Busqueda por rango de precio()
-        +Busqueda por fecha de almacenamiento()
+        +set Nombre()
+        + set Articulos()
+        +Lista Tipo()
+        +Lista Marca()
+        +Lista Precio()
+
     }
      Articulos --*  Lista
 
