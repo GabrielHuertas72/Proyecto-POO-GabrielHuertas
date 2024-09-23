@@ -1,0 +1,107 @@
+{
+  "CHOCOLATINAJET": {
+    "Tipo": "CHOCOLATINA",
+    "Marca": "JET",
+    "Precio": 900,
+    "Fecha de entrada": "21/9/2024",
+    "Unidades": 112
+  },
+  "CHOCOLATINAJUMBO": {
+    "Tipo": "CHOCOLATINA",
+    "Marca": "JUMBO",
+    "Precio": 2800,
+    "Fecha de entrada": "22/9/2024",
+    "Unidades": 64
+  },
+  "IPHONE15": {
+    "Tipo": "CELULAR",
+    "Marca": "APPLE",
+    "Precio": 3000000,
+    "Fecha de entrada": "22/9/2024",
+    "Unidades": 25
+  },
+  "SAMSUNGGALAXY9": {
+    "Tipo": "CELULAR",
+    "Marca": "SAMSUNG",
+    "Precio": 2500000,
+    "Fecha de entrada": "22/9/2024",
+    "Unidades": 34
+  },
+  "REDMI13": {
+    "Tipo": "CELULAR",
+    "Marca": "XIAOMI",
+    "Precio": 2400000,
+    "Fecha de entrada": "22/9/2024",
+    "Unidades": 52
+  },
+  "CHOCOLATINAJETBLANCA": {
+    "Tipo": "CHOCOLATINA",
+    "Marca": "JET",
+    "Precio": 2800,
+    "Fecha de entrada": "22/9/2024",
+    "Unidades": 78
+  },
+  "BOMBONESJET": {
+    "Tipo": "BOMBONES",
+    "Marca": "JET",
+    "Precio": 3200,
+    "Fecha de entrada": "22/9/2024",
+    "Unidades": 47
+  },
+  "BOMBONESCOLOMBINA": {
+    "Tipo": "BOMBONES",
+    "Marca": "COLOMBINA",
+    "Precio": 3400,
+    "Fecha de entrada": "22/9/2024",
+    "Unidades": 66
+  },
+  "AIRPODS": {
+    "Tipo": "AURICULARES",
+    "Marca": "APPLE",
+    "Precio": 500000,
+    "Fecha de entrada": "21/9/2024",
+    "Unidades": 89
+  },
+  "IPHONE12": {
+    "Tipo": "CELULAR",
+    "Marca": "APPLE",
+    "Precio": 1800000,
+    "Fecha de entrada": "21/9/2024",
+    "Unidades": 26
+  },
+  "IPHONE11": {
+    "Tipo": "CELULAR",
+    "Marca": "APPLE",
+    "Precio": 1300000,
+    "Fecha de entrada": "21/9/2024",
+    "Unidades": 13
+  },
+  "IPHONE": {
+    "Tipo": "CELULAR",
+    "Marca": "APPLE",
+    "Precio": 100000,
+    "Fecha de entrada": "21/9/2024",
+    "Unidades": 1
+  },
+  "IPHONE13": {
+    "Tipo": "CELULAR",
+    "Marca": "APPLE",
+    "Precio": 2200000,
+    "Fecha de entrada": "22/9/2024",
+    "Unidades": 78
+  },
+  "TORTILLASBIMBO": {
+    "Tipo": "TORTILLAS",
+    "Marca": "BIMBO",
+    "Precio": 6000,
+    "Fecha de entrada": "22/9/2024",
+    "Unidades": 144
+  },
+  "IPHONE2": {
+    "Tipo": "CELULAR",
+    "Marca": "APPLE",
+    "Precio": 500000,
+    "Fecha de entrada": "23/9/2024",
+    "Unidades": 32
+  }
+}
