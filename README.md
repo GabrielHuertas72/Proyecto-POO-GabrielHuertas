@@ -38,6 +38,6 @@ classDiagram
         +Lista Precio()
 
     }
-     Articulos --*  Lista
+     Articulos --*  Almacen
 
 ```
